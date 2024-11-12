@@ -22,10 +22,10 @@
    $$\Delta E_{п} = m \cdot g \cdot R \cdot (1 - \cos(\alpha))$$
 
 3. Необходимая энергия для прохождения дуги:  
-   $$E*{необх} = W_{тр} + \Delta E*{п}$$
+   $$E_{необх} = W_{тр} + \Delta E_{п}$$
 
 4. Начальная скорость для прохождения дуги:  
-   $$v*0 = \sqrt{\frac{2 \cdot E_{необх}}{m}}$$
+   $$v_0 = \sqrt{\frac{2 \cdot E_{необх}}{m}}$$
 
 5. Сила трения на дуге:  
    $$F_{тр} = \mu \cdot m \cdot g$$
@@ -35,11 +35,11 @@
    $$v_y = v \cdot \sin(\alpha)$$
 
 7. Время полёта после отрыва:  
-   $$t_{полет} = \frac{v_y + \sqrt{v_y^2 + 2 \cdot g \cdot y*{start}}}{g}$$
+   $$t_{полет} = \frac{v_y + \sqrt{v_y^2 + 2 \cdot g \cdot y_{start}}}{g}$$
 
 8. Траектория после отрыва:  
-   $$x = x*{start} + v_x \cdot t$$
-   $$y = y*{start} + v_y \cdot t - \frac{1}{2} \cdot g \cdot t^2$$
+   $$x = x_{start} + v_x \cdot t$$
+   $$y = y_{start} + v_y \cdot t - \frac{1}{2} \cdot g \cdot t^2$$
 
 ## Выводы
 
